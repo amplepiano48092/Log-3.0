@@ -1,0 +1,22 @@
+sistema_chamados_static/
+├── index.html
+├── login.html
+├── cadastro.html
+├── dashboard.html
+├── perfil.html
+├── chamados.html
+├── novo-chamado.html
+├── detalhe-chamado.html
+├── usuarios.html
+├── usuarios-excluidos.html
+├── confirmar-exclusao.html
+├── css/
+│   └── style.css
+├── js/
+│   ├── app.js
+│   ├── auth.js
+│   ├── chamados.js
+│   ├── usuarios.js
+│   └── dados.js
+└── assets/
+    └── (opcional)
